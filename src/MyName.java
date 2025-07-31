@@ -7,3 +7,12 @@ public class MyName {
         System.out.println("Ian Manuel Paniagua Porroa");
     }
 }
+/*
+this is a multiline comment
+ */
+
+/*
+* this is a multilne comment too
+*
+*
+ */
