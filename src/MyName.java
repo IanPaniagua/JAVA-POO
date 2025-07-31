@@ -8,6 +8,10 @@ public class MyName {
 
         //Print your age, favorite color, and city.
         System.out.println(("Age: 31\nFavorite Color: Blue\nCity: Mallorca"));
+
+        // 7 Explore the different System.XXX.println(); options beyond out.
+        System.err.println("This is to print an error, it will appear in red");
+
     }
 }
 /*
@@ -19,3 +23,6 @@ this is a multiline comment
 *
 *
  */
+
+
+
