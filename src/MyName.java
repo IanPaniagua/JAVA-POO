@@ -1,5 +1,5 @@
 //this line define the class
-public class MyName {
+public class yourName {
     //this line define the main
     public static void  main(String[] args)
     {
@@ -41,3 +41,8 @@ this is a multiline comment
 I try it but the IDE do not allow me to run it without the main
  */
 
+// 11 Try renaming the file to something different from the class name and compile it. What happens?
+/*
+I try it and I get this error:  Klasse yourName ist öffentlich und muss in einer Datei namens yourName.java deklariert werden
+It is something not allowed in Java to keep organization and have only one public clas for each file
+ */
