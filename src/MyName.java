@@ -1,7 +1,7 @@
 //this line define the class
 public class MyName {
     //this line define the main
-    public static void main (String[] args)
+    public static void  (String[] args)
     {
         //this line print some text in a line
         System.out.println("Ian Manuel Paniagua Porroa\n");
@@ -36,5 +36,8 @@ this is a multiline comment
 *
  */
 
-
+// 10, Try to run the program without the main method and observe the error.
+/*
+I try it but the IDE do not allow me to run it without the main
+ */
 
