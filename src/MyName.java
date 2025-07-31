@@ -19,6 +19,10 @@ public class MyName {
         System.out.println("to print a ");
         System.out.println("sentence.\n");
 
+        //Print an ASCII design (e.g., a smiley face using symbols).
+        System.out.println(". .");
+        System.out.println(" -");
+
 
     }
 }
