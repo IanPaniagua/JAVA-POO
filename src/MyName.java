@@ -5,6 +5,9 @@ public class MyName {
     {
         //this line print some text in a line
         System.out.println("Ian Manuel Paniagua Porroa");
+
+        //Print your age, favorite color, and city.
+        System.out.println(("Age: 31\nFavorite Color: Blue\nCity: Mallorca"));
     }
 }
 /*
