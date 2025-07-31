@@ -4,4 +4,4 @@ public class MyName {
         System.out.println("Ian Manuel Paniagua Porroa");
     }
 }
-//solved
+//Testing Github Issus to close it
