@@ -11,6 +11,10 @@ public class VariablesAndConstants {
         // Declare a boolean variable that indicates if you like programming. #15
         boolean ILikeProgramming = true;
 
+        // Declare a constant with your email. #16
+        final String EMAIL = "myemail@gmail.com";
+
+
 
 
 
