@@ -17,6 +17,13 @@ public class VariablesAndConstants {
         // Create a char variable and store your initial in it. Closes #17
         char myInitial = 'I';
 
+        // Declare a String variable with your hometown, then change its value and print it again. #18
+        String myHometown = "Sa Pobla";
+        System.out.println(myHometown);
+        myHometown = "Hamburg";
+        System.out.println(myHometown);
+
+
 
 
 
