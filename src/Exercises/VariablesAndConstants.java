@@ -5,6 +5,13 @@ public class VariablesAndConstants {
         // Declare a String variable and assign your name to it. #13
         String myName = "IAN";
 
+        // Create an int variable and assign your age to it. # 14
+        int myAge = 31;
+
+
+
+
+
 
 
 
