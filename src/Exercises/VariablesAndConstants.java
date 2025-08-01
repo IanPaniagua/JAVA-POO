@@ -14,6 +14,10 @@ public class VariablesAndConstants {
         // Declare a constant with your email. #16
         final String EMAIL = "myemail@gmail.com";
 
+        // Create a char variable and store your initial in it. Closes #17
+        char myInitial = 'I';
+
+
 
 
 
