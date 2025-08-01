@@ -27,6 +27,10 @@ public class VariablesAndConstants {
         int b = 3;
         System.out.println(a + b);
 
+        // Print the type of two previously created variables. #20
+        System.out.println(myHometown.getClass().getSimpleName());
+        System.out.println(EMAIL.getClass().getSimpleName());
+
 
 
 
