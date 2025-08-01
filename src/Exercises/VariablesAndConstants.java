@@ -32,8 +32,8 @@ public class VariablesAndConstants {
         System.out.println(EMAIL.getClass().getSimpleName());
 
         //Try declaring a variable without initializing it, then assign a value and print it. #21
-        variableWithoutInitianion = "text";
-        System.out.println(variableWithoutInitianion);
+        //variableWithoutInitianion = "text";
+        //System.out.println(variableWithoutInitianion);
         // I get this error in the console:
         /*
         java: Symbol nicht gefunden
